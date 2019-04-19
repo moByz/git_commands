@@ -64,4 +64,8 @@
 
 ```git checkout имя ветки``` - переключиться на нужную ветку.
 
+## Слияние 
+
+```git merge ветка``` - слить включенную ветку с которой мы хотим.
+
 https://githowto.com/ru/viewing_diverging_branches
