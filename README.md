@@ -71,4 +71,5 @@
 ## Сброс ветки
 
 ```git reset --hard хеш коммита``` - сбросить ветку к нужному коммиту.
+
 https://githowto.com/ru/rebasing
