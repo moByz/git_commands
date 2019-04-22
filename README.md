@@ -38,7 +38,6 @@ git config --global alias.go checkout - алиас checkout, вместо ком
 git tag nameTag - создать тег.
 git tag - просмотреть доступные теги.
 git hist master --all - просмотреть теги в коммитах.
-git tag nameTag - создание.
 git tag nameTag^ - переход к предыдущему тегу.
 git tag -d tagName - удаление тега (вместе с ним потруться все коммиты, которые в нем были). 
 ```
