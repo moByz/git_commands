@@ -36,7 +36,7 @@
 
 ## Алиасы
 
-```git config --global alias.hist "log --pretty=format:'%h %ad | %s%d [%an]' --graph --date=short"``` - алиас для просмотра истории.
+```git config --global alias.hist "log --pretty=format:'%h %ad | %s%d [%an]' --graph --date=short" - алиас для просмотра истории.```
 
 ```git config --global alias.go checkout``` - алиас checkout.
 
