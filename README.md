@@ -126,4 +126,3 @@
 
 ```git push origin master``` - отправка измений в ветку мастер.
 
-https://githowto.com/ru/rebasing
