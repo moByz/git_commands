@@ -56,6 +56,7 @@ git branch имя ветки - создает ветку.
 git checkout -b имя ветки - создать ветку и переключится на нее.
 git checkout имя ветки - переключиться на нужную ветку.
 git checkout -b myfeature develop - создать ветку myfeature от ветки develop и переключиться на нее.
+git branch -d имя ветки - удалить ветку.
 ```
 ## Слияние 
 ```
