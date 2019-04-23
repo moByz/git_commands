@@ -81,11 +81,11 @@ git checkout @{-1} - перключится на переключенную ве
 git branch -d nameBranch - удалить ветку.
 git branch -D nameBranch - удалить ветку, даже если она не влита в основную ветку.
 ```
-## Отмена удаления веток и их пересоздание
+## Восстановление веток
 ```
-git branch nameBranch hashCommit - отменить удаление ветки.
-git branch nameBranch 'HEAD@{number}' - пересоздать удаленную ветку из reflog через ее номер.
-git branch nameBranch 'HEAD@{'date'}' - пересоздать удаленную ветку из reflog через ее дату.
+git branch nameBranch hashCommit - восстановить удаленную ветку.
+git branch nameBranch 'HEAD@{number}' - восстановить удаленную ветку из reflog через ее номер.
+git branch nameBranch 'HEAD@{'date'}' - восстановить удаленную ветку из reflog через ее дату.
 ```
 ## Слияние 
 ```
